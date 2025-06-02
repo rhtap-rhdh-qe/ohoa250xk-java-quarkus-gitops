@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ohoa250xk-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ohoa250xk-java-quarkus-gitops
